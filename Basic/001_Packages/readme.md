@@ -1,0 +1,1 @@
+Cada programa de Go es un paquete

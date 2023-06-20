@@ -1,0 +1,1 @@
+Para declarar una variable se usa la sentencia *var*
