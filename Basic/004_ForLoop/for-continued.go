@@ -4,6 +4,7 @@ import "fmt"
 
 func main() {
 	sum := 1
+	// While
 	for sum < 1000 {
 		sum += sum
 	}
