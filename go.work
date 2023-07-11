@@ -1,3 +1,6 @@
 go 1.20
 
-use ./Basic/008_Paquetes/greetings
+use (
+	./Basic/008_Paquetes/greetings
+	./Basic/021_GORM
+)
